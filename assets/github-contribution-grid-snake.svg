@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title description">
+  <title id="title">Contribution graph animation</title>
+  <description id="description">The contribution snake is generated automatically by GitHub Actions.</description>
+  <rect width="900" height="180" rx="12" fill="#0d1117"/>
+  <text x="450" y="82" fill="#8b949e" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">Contribution snake is being generated</text>
+  <text x="450" y="112" fill="#58a6ff" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Run the “Update contribution snake” workflow to refresh this image.</text>
+</svg>
