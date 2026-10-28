@@ -73,7 +73,7 @@ The contribution chart below is generated automatically from GitHub. For the aut
 ## 🐍 Contribution trail
 
 <div align="center">
-  <img src="./assets/github-contribution-grid-snake.svg" alt="A snake eating Aditya's contribution graph" />
+  <img src="https://raw.githubusercontent.com/Aditya05-spec/Aditya05-spec/main/assets/github-contribution-grid-snake.svg" alt="A snake eating Aditya's contribution graph" />
 </div>
 
 ## 🤝 Let's build something
