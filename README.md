@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/aditya-pratap-singh-25a780241/">
+  <a href="https://www.linkedin.com/in/aditya-pratap-singh-882652320">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Aditya05-spec">
@@ -82,7 +82,7 @@ Have an idea, a project, or a bug that refuses to leave? I would love to hear ab
 
 <div align="center">
   <a href="mailto:adityasingh.nood@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-  <a href="https://www.linkedin.com/in/aditya-pratap-singh-25a780241/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/aditya-pratap-singh-882652320"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </div>
 
 <br>
