@@ -58,29 +58,16 @@
 
 ## 📊 GitHub at a glance
 
-These cards update automatically from GitHub and show my total commits, pull requests, issues, stars, contribution rank, top languages, current streak, longest streak, and recent activity.
+The contribution chart below is generated automatically from GitHub. For the authoritative live totals—commits, contributions, current streak, longest streak, pull requests, issues, stars, and languages—open the profile link below.
 
 <div align="center">
   <a href="https://github.com/Aditya05-spec">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditya05-spec&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=github_dark" alt="Aditya's total commits, pull requests, issues, stars, contributions and rank" />
-  </a>
-  <a href="https://github.com/Aditya05-spec">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya05-spec&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Aditya's most used languages" />
+    <img src="https://img.shields.io/badge/View%20live%20GitHub%20metrics-238636?style=for-the-badge&logo=github&logoColor=white" alt="View live GitHub metrics" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Aditya05-spec&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Aditya's current and longest GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/Aditya05-spec">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya05-spec&bg_color=0d1117&color=58a6ff&line=238636&point=f0883e&area=true&hide_border=true" alt="Aditya's contribution activity graph" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya05-spec&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Aditya's GitHub achievements" />
 </div>
 
 ## 🐍 Contribution trail
@@ -101,11 +88,5 @@ Have an idea, a project, or a bug that refuses to leave? I would love to hear ab
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote" />
-</div>
-
-<br>
-
-<div align="center">
-  <sub>✨ This profile is kept fresh automatically with GitHub Actions and live GitHub-powered cards.</sub>
+  <sub>✨ The contribution snake is refreshed automatically with GitHub Actions. GitHub remains the source of truth for live totals.</sub>
 </div>
